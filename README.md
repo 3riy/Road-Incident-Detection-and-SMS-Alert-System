@@ -61,6 +61,8 @@ The YOLO model is pretrained to detect a variety of objects, such as cars, buses
 * Fire 🔥 (HSV color detection logic)
 * Person Hit by Vehicle 💥 (approximate proximity logic)
 
+<img width="700" height=auto alt="image" src="https://github.com/user-attachments/assets/cd812ce8-44fa-4d4f-8902-9012928a88b2">
+
 ---
 
 ## Project Demo Images
@@ -282,7 +284,7 @@ matplotlib            # Debug visuals, heatmaps, plotting
 
 Below are **all setup steps** required before running the application.
 
-### Step 1: Create a Free Twilio Account
+### Step 1 - Create a Free Twilio Account
 
 **URL:** [SMS Messaging, Built to Scale](https://login.twilio.com/u/signup?state=hKFo2SBPN0VrQ0R3LTBaQTBKRG5MdTZWVjZmdjlQbThwWGxmTKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdQUkRqTjFPVHY5VlRQM09Ncm1naWFaaUFTTXYtU0FCo2NpZNkgTW05M1lTTDVSclpmNzdobUlKZFI3QktZYjZPOXV1cks) 💬
 
@@ -296,7 +298,7 @@ You will need:
 
 You will insert these into `config.py`.
 
-### Step 2: Create a Free MongoDB Atlas Account
+### Step 2 - Create a Free MongoDB Atlas Account
 
 **URL:** [https://www.mongodb.com/cloud/atlas/register](https://www.mongodb.com/cloud/atlas/register)
 
